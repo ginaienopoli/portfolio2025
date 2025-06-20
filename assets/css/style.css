@@ -633,6 +633,7 @@ section .container {
   margin-top: 20px;
   margin-bottom: 20px;
   color: #e9e9e9;
+  font-family: "Kaisei HarunoUmi", serif;
 }
 
 .resume .resume-item {
@@ -647,7 +648,7 @@ section .container {
   font-size: 18px;
   font-weight: 300;
   text-transform: uppercase;
-  font-family: 'Cinzel', serif;
+  font-family: "Work Sans";
   color: #fff;
   margin-bottom: 10px;
 }
