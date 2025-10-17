@@ -27,8 +27,8 @@
   $contact->smtp = array(
     'host' => 'smtp.gmail.com',
     'username' => 'ginaienopoli@gmail.com',
-    'password' => '$SnakeyRiver987$',
-    'port' => '465'
+    'password' => 'dova sxmp sshn ocfa',
+    'port' => '587'
   );
 
 
