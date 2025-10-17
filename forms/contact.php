@@ -38,4 +38,5 @@
   $contact->honeypot = $_POST['first_name'];
 
   echo $contact->send();
+  $contact->honeypot = $_POST['first_name'];
 ?>
