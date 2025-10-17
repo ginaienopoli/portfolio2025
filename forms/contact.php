@@ -27,8 +27,8 @@
   $contact->smtp = array(
     'host' => 'smtp.gmail.com',
     'username' => 'ginaienopoli@gmail.com',
-    'password' => 'vbayxqvhwlgfnqns',
-    'port' => '587'
+    'password' => '$SnakeyRiver987$',
+    'port' => '465'
   );
 
 
