@@ -35,7 +35,8 @@
   $contact->add_message( $_POST['name'], 'From');
   $contact->add_message( $_POST['email'], 'Email');
   $contact->add_message( $_POST['message'], 'Message', 10);
+  $contact->invalid_to_email = 'Email to (receiving email address) is empty or invalid!';
 
   echo $contact->send();
-  $contact->honeypot = $_POST['first_name'];
+  // $contact->honeypot = $_POST['last_name'];
 ?>
