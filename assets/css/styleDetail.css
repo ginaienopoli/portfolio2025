@@ -987,8 +987,7 @@ section .container {
     padding-top: 20px;
   }
   .swiper-slide img {
-    max-width: 100%;
-    height: auto;
+    width: 100%;
     position: relative;
   }
 }
